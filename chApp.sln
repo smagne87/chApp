@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chApp.UI", "chApp.UI\chApp.UI.csproj", "{3E7D56E6-52F6-4249-9BEB-D94116ABDCF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chApp.BLL", "chApp.BLL\chApp.BLL.csproj", "{FF5EE118-0517-4DCE-BC57-CD6FC48D1EDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chApp.DAL", "chApp.DAL\chApp.DAL.csproj", "{79EEA309-7523-485E-B8A7-6F677CB915E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E7D56E6-52F6-4249-9BEB-D94116ABDCF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E7D56E6-52F6-4249-9BEB-D94116ABDCF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E7D56E6-52F6-4249-9BEB-D94116ABDCF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E7D56E6-52F6-4249-9BEB-D94116ABDCF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF5EE118-0517-4DCE-BC57-CD6FC48D1EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF5EE118-0517-4DCE-BC57-CD6FC48D1EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF5EE118-0517-4DCE-BC57-CD6FC48D1EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF5EE118-0517-4DCE-BC57-CD6FC48D1EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79EEA309-7523-485E-B8A7-6F677CB915E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79EEA309-7523-485E-B8A7-6F677CB915E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79EEA309-7523-485E-B8A7-6F677CB915E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79EEA309-7523-485E-B8A7-6F677CB915E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
